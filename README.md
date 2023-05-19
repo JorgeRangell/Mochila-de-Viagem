@@ -6,7 +6,7 @@ JavaScript na Web: Armazenando Dados no Navegador
 | -------------  | --- |
 | :sparkles: Nome        | Mochila de Viagem
 | :label: Tecnologias | HTML5, CSS3, JavaScript
-| :rocket: URL         |  https://mochila-de-viagem-bnisvjoqa-jorgerangell.vercel.app
+| :rocket: URL         |  https://mochila-de-viagem-blue-five.vercel.app
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![image](https://github.com/JorgeRangell/Mochila-de-Viagem/assets/101427212/d038b462-80d2-421f-b929-ba3d97c1b492#vitrinedev)
